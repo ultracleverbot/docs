@@ -1,2 +1,1 @@
-# docs
-Docs for UltraCleverBot
+Just a docs for UltraCleverBot!
